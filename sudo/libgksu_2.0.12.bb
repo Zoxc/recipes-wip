@@ -1,5 +1,6 @@
 DESCRIPTION = "Gksu authorization library"
 LICENSE = "LGPLv2"
+LIC_FILES_CHKSUM="file://COPYING;md5=c46bda00ffbb0ba1dac22f8d087f54d9"
 DEPENDS = "gtk+ gconf startup-notification gnome-keyring libgtop"
 RRECOMMENDS_${PN} = "gksu"
 PR = "r1"

@@ -5,6 +5,8 @@ SECTION = "libs"
 PROVIDES = "openobex-apps"
 DEPENDS = "libusb bluez4"
 LICENSE = "GPL"
+LIC_FILES_CHKSUM="file://COPYING;md5=eb723b61539feef013de476e68b5c50a \
+		  file://COPYING.LIB;md5=a6f89e2100d9b6cdffcea4f398e37343"
 PR = "r4"
 
 SRC_URI = "${KERNELORG_MIRROR}/linux/bluetooth/openobex-${PV}.tar.gz \
