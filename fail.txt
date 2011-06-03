@@ -1,0 +1,15 @@
+NOTE: package xterm-266-r5.0: task do_configure: Failed
+	| ERROR: This autoconf log indicates errors, it looked at host include and/or library paths while determining system capabilities.
+
+NOTE: package swig-2.0.0-r1.0: task do_configure: Failed
+	| ERROR: This autoconf log indicates errors, it looked at host include and/or library paths while determining system capabilities
+	
+NOTE: package pandora-libpnd-1.0-r48: task do_compile: Failed
+	 pnd_conf.o: relocation R_ARM_MOVW_ABS_NC against `a local symbol' can not be used when making a shared object; recompile with -fPIC
+
+NOTE: package libsdl-mixer-1.2.11-r7: task do_configure: Failed
+	| ERROR: This autoconf log indicates errors, it looked at host include and/or library paths while determining system capabilities.
+
+
+
+
