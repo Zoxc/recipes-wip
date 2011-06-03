@@ -17,7 +17,7 @@ NOTE: package gobject-introspection-native-0.10.8+git1+efa7266bcf78478ce62e8dd77
 
 NOTE: package webkit-gtk-1.3.7+svnr72836-r72836-r0: task do_compile: Failed
 
-
+NOTE: package gphoto2-2.4.8-r0: task do_configure: Failed
 
 gksu
 
@@ -26,6 +26,25 @@ netm_cli
 xfce4-session
 xfdesktop
 thunar
+
+
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-wip/gnome/libwnck_2.30.5.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-openpandora/slim/slim_1.3.1.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-wip/hsetroot/hsetroot_1.0.2.bb' failed
+openpandora-oe-environment/metadata/meta-openembedded/meta-oe/recipes-devtools/swig/swig_2.0.0.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-branding/branding/pandora-wallpaper.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-wip/libsdl/libsdl-mixer_1.2.11.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-branding/branding/pandora-xfce-defaults.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-wip/aufs/aufs2-util_git.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-openpandora/pandora-system/pandora-scripts.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-openpandora/pandora-system/pandora-libpnd.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-wip/tasks/task-xfce46-extras.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-openpandora/gtk/gtk-touchscreen-mode-enable.bb' failed
+openpandora-oe-environment/metadata/openembedded-core/meta/recipes-sato/webkit/webkit-gtk_svn.bb' failed
+openpandora-oe-environment/metadata/meta-openembedded/meta-oe/recipes-graphics/xorg-driver/xf86-input-tslib_0.0.6.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-wip/tasks/task-pandora-image.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-wip/gphoto2/gphoto2_2.4.8.bb' failed
+openpandora-oe-environment/metadata/meta-openpandora-vendor/recipes-wip/networkmanager/netm-cli_git.bb' failed
 
 
 
